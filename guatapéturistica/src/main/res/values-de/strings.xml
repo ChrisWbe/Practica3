@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guatapé Touristisch</string>
+    <string name="info">Interesse</string>
+    <string name="acerca">Über</string>
+    <string name="sitio">Touristische Plätze</string>
+    <string name="bar">Imbissstuben</string>
+    <string name="hotel">Hotels</string>
+    <string name="infDe">Bevölkerungswissenschaft</string>
+    <string name="infL">Lokale Information </string>
+</resources>

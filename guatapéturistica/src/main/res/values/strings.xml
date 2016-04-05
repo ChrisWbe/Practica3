@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guatapé Turistica</string>
+    <string name="info">De Interés</string>
+    <string name="acerca">Acerca De</string>
+    <string name="sitio">Sitios Turisticos</string>
+    <string name="bar">Bares</string>
+    <string name="hotel">Hoteles</string>
+    <string name="infDe">Demografía</string>
+    <string name="infL">Información del Lugar</string>
+
+</resources>

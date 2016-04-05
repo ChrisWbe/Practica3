@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notas App</string>
+    <string name="nota">Tu Nota Final</string>
+    <string name="qu">Quices</string>
+    <string name="ex">Exposiciones</string>
+    <string name="pra">Practicas y Labs</string>
+    <string name="pro">Proyecto Final</string>
+    <string name="calcular">Calcular</string>
+    <string name="def">Definitiva</string>
+    <string name="save">Guardar</string>
+    <string name="porcen">Configurar Porcentajes</string>
+    <string name="quiz.por">15%</string>
+    <string name="exp.por">10%</string>
+    <string name="pra.por">40%</string>
+    <string name="pro.por">35%</string>
+    <string name="conf">Configurar</string>
+    <string name="clean">Limpiar</string>
+    <string name="campos">Llene todos los campos</string>
+    <string name="valores">El valor no puede ser \nmayor a 5.0 o menor a 0.0</string>
+    <string name="totMe">El total es menor al 100%</string>
+    <string name="totSu">El total supera el 100%</string>
+</resources>

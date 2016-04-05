@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/celeste</item>
+        <item name="colorPrimaryDark">@color/Black</item>
+        <item name="colorAccent">@color/BlueDodger</item>
+
+    </style>
+
+    <style name="texViewStyle" parent="@android:style/TextAppearance.Holo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/Black</item>
+    </style>
+
+    <style name="texViewStyle.pequ">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">@color/BlueDodger</item>
+    </style>
+    <style name="textoEditable">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">numberDecimal</item>
+    </style>
+    <style name="textoEditable.config">
+        <item name="android:inputType">number</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes App Christian Quintero</string>
+    <string name="nota">Calculate your final note</string>
+    <string name="qu">Quiz</string>
+    <string name="ex">Exhibition</string>
+    <string name="pra">Experience and Lab</string>
+    <string name="pro">Final proyect</string>
+    <string name="calcular">Calculate</string>
+    <string name="def">Final</string>
+    <string name="save">Save</string>
+    <string name="porcen">To form Percentages </string>
+    <string name="quiz.por">15%</string>
+    <string name="exp.por">10%</string>
+    <string name="pra.por">40%</string>
+    <string name="pro.por">35%</string>
+    <string name="conf">Configure</string>
+    <string name="clean">Clean</string>
+    <string name="campos">Fill all the fields </string>
+    <string name="valores">The value cannot be bigger \n than 5. 0 or minor than 0. 0 </string>
+    <string name="totMe">The whole is less to 100 %</string>
+    <string name="totSu">The whole overcomes 100 %</string>
+</resources>
